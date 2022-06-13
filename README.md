@@ -3,4 +3,4 @@ This is an analysis that has to do with the sales record in different countries 
 The products been sold consist of beer, cosmetics and spirits. This sales record was made with analysis to the different type of customers involved, which include Regional Customers, Master Acct, Local Sellers  and Online sellers.
 This analysis also covered the agents responsible for the sales in the different countries with their counts each and the different markets where the sales were made.
 The visuals will show more about the countries, the different seller,and the agents performance each.
-But in conclusion, it can be said that Ghana market had the highest all round sales, regional customers are known with a greater patronage. 
+But in conclusion, it can be said that Ghana market had the highest all round sale and regional customers are known with a greater patronage of spirit.
