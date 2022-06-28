@@ -4,7 +4,7 @@ The products been sold consist of beer, cosmetics and spirits. This sales record
 This analysis also covered the agents responsible for the sales in the different countries with their counts each and the different markets where the sales were made.
 The visuals will show more about the countries, the different seller,and the agents performance each.
 IN CONCLUSION.KPI FOR SALES
-MEASURING SALES VS THE TARGET which shows 91% of sales made
+MEASURING SALES VS THE TARGET which shows 91% of sales made,
 VIEW OF SALES BY CATEGORY(PRODUCTS SOLD) WHAT GAVE US THE SALES
 VOLUME SOLD FOR ALL ITEM  7.69 IN ALL THREE CATEGORIES
 MARKET TYPE BY COUNTRY.(ONLY IN NIGERIA THAT WE DON’T HAVE REGIONAL CUSTOMERS, MORE OF ONLINE ,MASTER ACCOUNT AND LOCAL SALES BUT GENERALLY, GHANA MAKES THE HIGHEST SALES 
